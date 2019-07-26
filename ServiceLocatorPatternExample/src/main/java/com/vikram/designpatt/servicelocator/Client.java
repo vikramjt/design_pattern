@@ -17,7 +17,7 @@ The original service object is looked up by the locator and returned on demand.
 
  *
  */
-public class App 
+public class Client 
 {
     public static void main( String[] args )
     {
