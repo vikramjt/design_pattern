@@ -8,7 +8,7 @@ public class NewsAgency extends Observable{
  
     public void setNews(String news) {
         this.news = news;
-        //Informing all observables about the change in news
+        //Informing all observable about the change in news
         setChanged();
         notifyObservers(news);
     }
