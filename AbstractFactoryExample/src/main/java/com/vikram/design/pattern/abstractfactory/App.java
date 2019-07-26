@@ -16,7 +16,6 @@ public class App
         AbstractFactory<Animal> animalFactory = FactoryProvider.getFactory("Animal");
         
         Animal animal = animalFactory.create("Duck");
-        
         System.out.println("Animal is : " + animal.getAnimal() + " And it sound : " + animal.makeSound());
         
         AbstractFactory<Color> colorFactory = FactoryProvider.getFactory("Color");
