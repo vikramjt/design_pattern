@@ -17,8 +17,7 @@ public class ServiceLocator {
         }
  
         InitialContext context = new InitialContext();
-        MessagingService service1 = (MessagingService) context
-          .lookup(serviceName);
+        MessagingService service1 = (MessagingService) context.lookup(serviceName);
         cache.addService(service1);
         return service1;
     }
