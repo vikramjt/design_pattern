@@ -1,0 +1,75 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.vikram.designpatterns</groupId>
+  <artifactId>design-patterns-parent</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>AbstractFactoryExample</module>
+    <module>AdapterDesignPattern</module>
+    <module>BridgePatternExample</module>
+    <module>BuilderPatternExample</module>
+    <module>ChainOfResponsibilityPatternExample</module>
+    <module>CommandPatternExample</module>
+    <module>CompositePatternExample</module>
+    <module>DataAccessObjectPatternExample</module>
+    <module>DecoratorPatternExample</module>
+    <module>DependencyInjectionPatternExample</module>
+    <module>FacadePatternExample</module>
+    <module>FactoryMethodPatternExample</module>
+    <module>FlyweightPatternExample</module>
+    <module>InterceptingFilterPatternExample</module>
+    <module>InterpreterPatternExample</module>
+    <module>IteratorPatternExample</module>
+    <module>LazyInitializationPatternExample</module>
+    <module>MediatorPatternExample</module>
+    <module>ObjectPoolPatternExample</module>
+    <module>ObserverDesignPatternExample</module>
+    <module>PrototypePatternExample</module>
+    <module>ProxyPatternExample</module>
+    <module>SingletonPatternExample</module>
+    <module>StatePatternExample</module>
+    <module>ServiceLocatorPatternExample</module>
+    <module>StrategyPatternExample</module>
+    <module>VisitorPatternExample</module>
+  </modules>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.release>17</maven.compiler.release>
+    <junit.version>4.13.1</junit.version>
+  </properties>
+
+  <dependencyManagement>
+    <dependencies>
+      <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>${junit.version}</version>
+        <scope>test</scope>
+      </dependency>
+    </dependencies>
+  </dependencyManagement>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.13.0</version>
+        <configuration>
+          <release>${maven.compiler.release}</release>
+        </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.2.5</version>
+      </plugin>
+    </plugins>
+  </build>
+</project>

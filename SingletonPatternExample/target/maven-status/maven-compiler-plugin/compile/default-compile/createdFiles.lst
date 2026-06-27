@@ -1,0 +1,4 @@
+com/vikram/designpatterns/singleton/App.class
+com/vikram/designpatterns/singleton/ThreadSafeLogger.class
+com/vikram/designpatterns/singleton/AppConfig.class
+com/vikram/designpatterns/singleton/AppConfig$Holder.class

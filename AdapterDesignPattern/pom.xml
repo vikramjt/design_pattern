@@ -2,6 +2,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
+  <parent>
+    <groupId>com.vikram.designpatterns</groupId>
+    <artifactId>design-patterns-parent</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <relativePath>../pom.xml</relativePath>
+  </parent>
+
   <groupId>com.vikram.designpatt.adapter</groupId>
   <artifactId>AdapterDesignPattern</artifactId>
   <version>0.0.1-SNAPSHOT</version>
@@ -10,15 +17,10 @@
   <name>AdapterDesignPattern</name>
   <url>http://maven.apache.org</url>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.13.1</version>
       <scope>test</scope>
     </dependency>
   </dependencies>

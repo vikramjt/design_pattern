@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ObserverDesignPatternExample" />
+        <module name="BuilderPatternExample" />
+        <module name="AdapterDesignPattern" />
+        <module name="CommandPatternExample" />
+        <module name="InterceptingFilterPatternExample" />
+        <module name="CompositePatternExample" />
+        <module name="DecoratorPatternExample" />
+        <module name="StatePatternExample" />
+        <module name="InterpreterPatternExample" />
+        <module name="FactoryMethodPatternExample" />
+        <module name="FlyweightPatternExample" />
+        <module name="ObjectPoolPatternExample" />
+        <module name="StrategyPatternExample" />
+        <module name="FacadePatternExample" />
+        <module name="PrototypePatternExample" />
+        <module name="VisitorPatternExample" />
+        <module name="SingletonPatternExample" />
+        <module name="ServiceLocatorPatternExample" />
+        <module name="MediatorPatternExample" />
+        <module name="AbstractFactoryExample" />
+        <module name="IteratorPatternExample" />
+        <module name="LazyInitializationPatternExample" />
+        <module name="ChainOfResponsibilityPatternExample" />
+        <module name="ProxyPatternExample" />
+        <module name="BridgePatternExample" />
+        <module name="DataAccessObjectPatternExample" />
+        <module name="DependencyInjectionPatternExample" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

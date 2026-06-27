@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AbstractFactoryExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AbstractFactoryExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AdapterDesignPattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AdapterDesignPattern/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BridgePatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BridgePatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BuilderPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChainOfResponsibilityPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChainOfResponsibilityPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommandPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CommandPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CompositePatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CompositePatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataAccessObjectPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataAccessObjectPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DecoratorPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DecoratorPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DependencyInjectionPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DependencyInjectionPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FacadePatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FacadePatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FactoryMethodPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FactoryMethodPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlyweightPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FlyweightPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InterceptingFilterPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InterceptingFilterPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InterpreterPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/InterpreterPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IteratorPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/IteratorPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LazyInitializationPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LazyInitializationPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MediatorPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MediatorPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ObjectPoolPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ObjectPoolPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ObserverDesignPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ObserverDesignPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PrototypePatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PrototypePatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProxyPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ProxyPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServiceLocatorPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ServiceLocatorPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SingletonPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SingletonPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StatePatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StatePatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StrategyPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StrategyPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VisitorPatternExample/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/VisitorPatternExample/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

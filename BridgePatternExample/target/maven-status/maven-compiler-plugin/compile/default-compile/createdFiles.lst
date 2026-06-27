@@ -1,0 +1,5 @@
+com/vikram/designpatterns/bridge/Remote.class
+com/vikram/designpatterns/bridge/BasicRemote.class
+com/vikram/designpatterns/bridge/Device.class
+com/vikram/designpatterns/bridge/App.class
+com/vikram/designpatterns/bridge/Television.class
